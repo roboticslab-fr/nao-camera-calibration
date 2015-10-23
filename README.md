@@ -3,9 +3,9 @@
 ##Contributors & Affiliations
 Ozan Gönenç+, Ralph Seulin++ and David Fofi++
 
-+ VIBOT – Erasmus Mundus Masters in Vision and Robotics, http://www.vibot.org
-+ 
-++ Le2i UMR CNRS 6306, Laboratoire Electronique, Informatique et Images de l’Université de Bourgogne, http://le2i.cnrs.fr
++ +VIBOT – Erasmus Mundus Masters in Vision and Robotics, http://www.vibot.org
+
++ ++Le2i UMR CNRS 6306, Laboratoire Electronique, Informatique et Images de l’Université de Bourgogne, http://le2i.cnrs.fr
 
 ##Fully automatic camera calibration module for Nao
 

@@ -1,7 +1,7 @@
 # nao-camera-calibration
 
 ##Contributors & Affiliations
-Ozan Gönenç+, Ralph Seulin++ and David Fofi++
+Ozan Gönenç+, David Fofi++, Ralph Seulin++, Raphael Duverne++
 
 + +VIBOT – Erasmus Mundus Masters in Vision and Robotics, http://www.vibot.org
 

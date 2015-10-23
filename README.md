@@ -1,4 +1,12 @@
 # nao-camera-calibration
+
+##Contributors & Affiliations
+Ozan Gönenç+, Ralph Seulin++ and David Fofi++
+
++ VIBOT – Erasmus Mundus Masters in Vision and Robotics, http://www.vibot.org
++ 
+++ Le2i UMR CNRS 6306, Laboratoire Electronique, Informatique et Images de l’Université de Bourgogne, http://le2i.cnrs.fr
+
 ##Fully automatic camera calibration module for Nao
 
 Calibration is the process to estimate the transformation from scene features (in 3D, expressed in meters) to image features (in 2D, expressed in pixels).
